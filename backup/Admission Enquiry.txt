@@ -1,0 +1,27 @@
+Title: Admission Enquiry
+
+1)Make a inquiry form for who have visited / interested in admission in college.
+Take their student full name their contact details and email. The information should be stored in MYSQL database.
+
+2)Before the admission phase has begin message them on WhatsApp using pywhatkit or some API (automate) or 
+send SMS using some API(in case someone don't have WhatsApp) about the admission date.
+
+3)The data of students who have filled the admission form will be stored in database.
+
+4)Create a web application for administrator, he/she can see the table of students and 
+either click on select all and then click on send message by entering the message so that all students will get notified through WhatsApp
+or administrator can select specific students to send the message.
+
+5)There will be 3 merit list out, when the merit list is out then message the selected students that they are shortlisted, visit college for confirming the admission
+and those who are not selected, send them message that wait for the next merit list. If the student is not in any of the merit list then message them that the admission seats are full.
+
+
+ Tools and Technologies Used:
+- Programming Language: Python
+- Database: MySQL 
+- Messaging APIs: Pywhatkit for WhatsApp messaging, SMS messaging
+- Frontend and Backend: React JS  (for admin interface)
+
+
+Conclusion:
+The 'Admission Enquiry System' project aims to enhance the admission process for educational institutions by automating communication through WhatsApp and SMS. By leveraging Python's capabilities and integrating with Pywhatkit and messaging APIs, the system will provide timely updates to students and parents, ensuring a seamless and efficient admission experience. This project not only addresses the immediate communication needs but also explores the potential of automation in educational administration, paving the way for future enhancements and improvements in student engagement and satisfaction.

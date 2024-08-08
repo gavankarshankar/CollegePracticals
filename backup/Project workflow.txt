@@ -1,0 +1,24 @@
+Step 1 = Search for data collections techniques to get student data from different colleges
+
+1)Take all students data with numbers for admission details and create a table
+2)Send messages on whatsapp for admission phase (to students as well as their parents) like pdf of college, available cources.
+3)Create a table for students who are interested in admission
+4)Alert them (students as well as their parents) using whatsapp message the date of admission dates(automated)
+5)Create a different table for those who have filled admission form 
+6)Once the list is out, then send the merit list to everyone (students as well as their parents) and 
+if he/she is selected then congratulate them and tell to visit college for further admission process and those who are not selected tell them ,
+be patient wait for second list(automation)
+
+Additional:
+=>Make a UI for administrator to see all the tables and edit them if needed.(Using react Js or php)
+=>Then create group of the students who have confirmed the admission (and add teachers and make them admin) in whatsapp(automation) 
+
+Technologies:
+Python, MySQL
+
+Conclusion:
+In today's digital world, it's crucial for college to communicate well with students and parents. 
+The 'Admission Enquiry System' helps by using Python and Pywhatkit to send updates through WhatsApp and SMS.
+This means students and parents get important information like admission dates and merit list updates directly on their phones. 
+They don't have to keep visiting (or keep calling to HOD or teachers) the college in person all the time. 
+This makes the whole process easier and more convenient for everyone involved.

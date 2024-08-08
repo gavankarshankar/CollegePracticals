@@ -1,0 +1,28 @@
+﻿Created By AccessData® FTK® Imager 3.1.2.0 
+
+Case Information: 
+Acquired using: ADI3.1.2.0
+Case Number: 1
+Evidence Number: 1
+Unique Description: frog
+Examiner: shankar
+Notes: frog photos
+
+--------------------------------------------------------------
+
+Information for C:\Shankar\SEM 5\Cyber Forensics\output\frog.ad1:
+[Computed Hashes]
+ MD5 checksum:    67a41f66e28eea0c131737c4ae86866f
+ SHA1 checksum:   cf827d502cb32ddfcd08ee0d78b11600c0c4a31b
+
+Image information:
+ Acquisition started:   Thu Jun 20 13:58:30 2024
+ Acquisition finished:  Thu Jun 20 13:58:30 2024
+ Segment list:
+  C:\Shankar\SEM 5\Cyber Forensics\output\frog.ad1
+
+Image Verification Results:
+ Verification started:  Thu Jun 20 13:58:30 2024
+ Verification finished: Thu Jun 20 13:58:31 2024
+ MD5 checksum:    67a41f66e28eea0c131737c4ae86866f : verified
+ SHA1 checksum:   cf827d502cb32ddfcd08ee0d78b11600c0c4a31b : verified

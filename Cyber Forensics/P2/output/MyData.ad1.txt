@@ -1,0 +1,28 @@
+﻿Created By AccessData® FTK® Imager 3.1.2.0 
+
+Case Information: 
+Acquired using: ADI3.1.2.0
+Case Number: 1
+Evidence Number: 1
+Unique Description: pendrive
+Examiner: me
+Notes: data acquisition
+
+--------------------------------------------------------------
+
+Information for D:\Shankar TYCS\Cyber Forensics\P2\output\MyData.ad1:
+[Computed Hashes]
+ MD5 checksum:    0beb2f7c3cb6b510cb264fd0427ddf23
+ SHA1 checksum:   1f611019864b45086e37d8af12c75d1838e8584b
+
+Image information:
+ Acquisition started:   Thu Jul 11 10:33:34 2024
+ Acquisition finished:  Thu Jul 11 10:33:35 2024
+ Segment list:
+  D:\Shankar TYCS\Cyber Forensics\P2\output\MyData.ad1
+
+Image Verification Results:
+ Verification started:  Thu Jul 11 10:33:35 2024
+ Verification finished: Thu Jul 11 10:33:35 2024
+ MD5 checksum:    0beb2f7c3cb6b510cb264fd0427ddf23 : verified
+ SHA1 checksum:   1f611019864b45086e37d8af12c75d1838e8584b : verified
